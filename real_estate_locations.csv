@@ -1,0 +1,13 @@
+location_id,neighborhood,city,state,avg_price_per_sqm
+1,GRA Phase 1,Port Harcourt,Rivers,850000
+2,GRA Phase 2,Port Harcourt,Rivers,920000
+3,Old GRA,Port Harcourt,Rivers,800000
+4,Rumuokoro,Obio-Akpor,Rivers,450000
+5,Rumuodara,Obio-Akpor,Rivers,420000
+6,Rumuola,Obio-Akpor,Rivers,500000
+7,Woji,Obio-Akpor,Rivers,550000
+8,Ada George,Obio-Akpor,Rivers,480000
+9,Diobu,Port Harcourt,Rivers,350000
+10,D-Line,Port Harcourt,Rivers,620000
+11,Borokiri,Port Harcourt,Rivers,300000
+12,Town,Port Harcourt,Rivers,580000
